@@ -1766,3 +1766,139 @@ footer{
     box-shadow: 0 0 25px #ff0000;
 
 }
+/* Founder About Section */
+
+.founder-about {
+
+    margin-top: 25px;
+    padding: 20px;
+    border-left: 4px solid #ffd700;
+    background: rgba(255,255,255,0.05);
+    border-radius: 8px;
+
+}
+
+.founder-about h3 {
+
+    margin-bottom: 10px;
+
+}
+
+.founder-about p {
+
+    line-height: 1.8;
+
+}
+/* Founder Contact Section */
+
+.founder-contact {
+
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.founder-contact h3 {
+
+    color: #ffd700;
+    margin-bottom: 10px;
+
+}
+
+.founder-contact p {
+
+    margin: 5px 0;
+
+}
+/* ==============================
+        PREMIUM FOUNDER SECTION
+============================== */
+
+.founder-section {
+
+    width: 90%;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 35px;
+
+    background: linear-gradient(135deg, 
+    rgba(0, 20, 40, 0.9),
+    rgba(0, 50, 80, 0.8));
+
+    border: 2px solid #ffd700;
+    border-radius: 18px;
+
+    text-align: center;
+
+    box-shadow: 
+    0 0 20px rgba(255, 215, 0, 0.4);
+
+    transition: 0.3s ease;
+
+}
+
+
+/* Hover Effect */
+
+.founder-section:hover {
+
+    transform: translateY(-8px);
+
+    box-shadow: 
+    0 0 35px rgba(255, 215, 0, 0.7);
+
+}
+
+
+/* Heading */
+
+.founder-section h2 {
+
+    font-size: 34px;
+
+    color: #ffd700;
+
+    letter-spacing: 2px;
+
+    text-transform: uppercase;
+
+    margin-bottom: 20px;
+
+    text-shadow: 
+    0 0 10px rgba(255, 215, 0, 0.8);
+
+}
+
+
+/* Description */
+
+.founder-section p {
+
+    font-size: 20px;
+
+    color: #f5f5f5;
+
+    line-height: 1.9;
+
+}
+
+
+/* Founder Name */
+
+.founder-section strong {
+
+    color: #ffffff;
+
+    font-size: 24px;
+
+    display: block;
+
+    margin-bottom: 12px;
+
+    letter-spacing: 1px;
+
+    text-shadow:
+    0 0 8px rgba(255,255,255,0.8);
+
+}
